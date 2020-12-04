@@ -1,0 +1,14 @@
+//
+//  ObjCResult-Prefix.pch
+//  ObjCResult
+//
+//  Created by Andrii Serohin on 15.07.2020.
+//  Copyright © 2020 Andrii Serohin. All rights reserved.
+//
+
+#ifndef ObjCResult_Prefix_pch
+#define ObjCResult_Prefix_pch
+
+#import <Foundation/Foundation.h>
+
+#endif /* ObjCResult_Prefix_pch */
